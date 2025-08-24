@@ -3,7 +3,7 @@
 A modern, neon-styled **Snake Game** built using **HTML, TailwindCSS, and JavaScript**.  
 The game features smooth animations, mobile-friendly controls, and a vibrant UI with neon effects.
 
-👉 **Play it here:** [shadeeds-neon-snake-game.netlify.app](https://shadeeds-neon-snake-game.netlify.app/)
+👉 **Play it here:** [Neon Snake Game by Shadeed](https://shadeeds-neon-snake-game.netlify.app/)
 
 ---
 
